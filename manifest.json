@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Cyber Bouncer",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CyberBouncer",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/cyber.bouncer.app"
+}
